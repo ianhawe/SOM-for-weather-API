@@ -38,9 +38,8 @@ This is tests to run two data sets along one another. One data set coming from t
 4. 'random_number' parameter is replacable by a number, this number represents the amount of postcodes you wish to generate
 
 ### Challenges (you can include images and code block here)
-1. Random number generator usage with arrays.
-2. Local vs global variables in Ruby.
+1. Struggled with files not being called propperly 
+2. Struggled with where to use required and required_relative
 
 ### Learning points
-1. To be careful with variables.
-2. Random number generation with arrays.
+1. Being more careful with where to call certain files
